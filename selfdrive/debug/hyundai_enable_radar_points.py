@@ -52,6 +52,10 @@ SUPPORTED_FW_VERSIONS = {
   b'IK__ SCC F-CUP      1.00 1.02 96400-G9100\x18\x07\x06\x17\x12    ': ConfigValues(
     default_config=b"\x00\x00\x00\x01\x00\x00",
     tracks_enabled=b"\x00\x00\x00\x01\x00\x01"),
+    # 2021 KIA NIRO EV
+  b"DEev SCC FHCUP      1.00 1.00 99110-Q4600 \x07\x03\t%    ": ConfigValues(
+    default config=b"\x00\x00\x00\x01\x00\x00",
+    tracks_enabled=b"\x00\x00\x00\x01\x00\x01"),
 }
 
 if __name__ == "__main__":
