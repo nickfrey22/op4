@@ -403,7 +403,7 @@ DBC = {
   CAR.SPORTAGE: dbc_dict('hyundai_kia_generic', None),  
   CAR.SORENTO: dbc_dict('hyundai_kia_generic', None),
   CAR.STINGER: dbc_dict('hyundai_kia_generic', None),  
-  CAR.NIRO_EV: dbc_dict('hyundai_kia_generic', None),
+  CAR.NIRO_EV: dbc_dict('hyundai_kia_generic', 'hyundai_kia_mando_front_radar'),
   CAR.NIRO_HEV: dbc_dict('hyundai_kia_generic', None),
   CAR.NIRO_HEV_2021: dbc_dict('hyundai_kia_generic', None),
   CAR.CEED: dbc_dict('hyundai_kia_generic', None),
